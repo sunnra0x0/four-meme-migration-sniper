@@ -4,7 +4,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![BNB Chain](https://img.shields.io/badge/BNB%20Chain-F3BA2F?logo=binance&logoColor=black)](https://www.bnbchain.org/)
-[![Contact](https://img.shields.io/badge/Contact-Telegram-blue?logo=telegram)](https://t.me/just_ben_venture)
+[![Contact](https://img.shields.io/badge/Contact-Telegram-blue?logo=telegram)](https://t.me/sunnra0x0)
 
 > **Professional Four.Meme Migration Sniper Bot** - Advanced automated trading system for Four.Meme token migrations from bonding curve to PancakeSwap at 18 BNB market cap threshold.
 
